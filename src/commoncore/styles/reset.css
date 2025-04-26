@@ -1,0 +1,16 @@
+/* Reset for buttons */
+button {
+    appearance: none;
+    background: transparent;
+    border: none;
+    font: inherit;
+    color: inherit;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Optional: reset input, textarea, select if needed */
+  input, textarea, select {
+    font: inherit;
+  }
+  
